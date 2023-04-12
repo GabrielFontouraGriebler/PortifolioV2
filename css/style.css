@@ -34,7 +34,7 @@ section {
 }
 
 .header {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -458,7 +458,7 @@ span {
    }
 
    .about img {
-    width: 39vw;
+    width: 70vw;
     margin-top: 4rem;
    }
 
